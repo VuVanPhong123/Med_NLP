@@ -122,19 +122,3 @@ NLP/
 - [Qwen2.5 Hugging Face](https://huggingface.co/Qwen/Qwen2.5-1.5B)
 - [VLSP 2025 Shared Task](https://vlsp.org.vn/)
 
----
-
-##  Đóng góp
-
-Nhóm sinh viên UET – Đại học Công nghệ, ĐHQGHN:
-- Vũ Văn Phong (22028309)
-- Đinh Huyền Trang (23020711)
-- Triệu Việt Hùng (22028069)
-
-**GitHub:** [https://github.com/23020711/nlp_group5](https://github.com/23020711/nlp_group5)
-
----
-
-##  Giấy phép
-
-Dự án được phát triển cho mục đích học thuật, mã nguồn mở theo MIT License.
